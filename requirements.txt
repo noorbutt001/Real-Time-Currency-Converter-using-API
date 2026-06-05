@@ -1,0 +1,14 @@
+streamlit
+requests
+sqlalchemy
+bcrypt
+pandas
+numpy
+matplotlib
+plotly
+cachetools
+apscheduler
+python-dotenv
+scikit-learn
+reportlab
+openpyxl
